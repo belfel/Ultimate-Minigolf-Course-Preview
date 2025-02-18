@@ -6,7 +6,7 @@ Unlike other minigolf games the score is not based on number of strokes. Instead
 After every round each player will get to pick and place an object as shown in the video below.
 Player's goal is to try and modify the course in a way in which he's the only one who can complete the course (reach the goal).
 
-https://github.com/user-attachments/assets/f9e2c64c-3a38-4d71-b0f1-a0e8e2ca5a66
+![image](https://github.com/user-attachments/assets/ca7986a2-7cd0-4f50-9a41-79876c0a7adb)
 
 ## Gameplay loop
 
